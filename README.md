@@ -13,4 +13,7 @@ Mais informações:
 
 http://arduinoprojexp.blogspot.com/2019/04/medidor-de-ph-conexao-dos-componentes-e.html
 http://arduinoprojexp.blogspot.com/2019/04/medidor-de-ph-codigo-e-testes-com.html
+
+Para ver como transmitir via Bluetooth para o PC e gerar gráficos no Excel com PLX-DAQ:
+
 http://arduinoprojexp.blogspot.com/2019/04/medidor-de-ph-enviando-os-valores-de-ph.html
